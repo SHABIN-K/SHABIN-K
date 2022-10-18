@@ -3,6 +3,8 @@ Hi there 👋
 I am Shabin k, 
 a MERN stack developer,creative and a developer who loves to create new innovative ideas and tools. 
 
+<div align="center" width="50">
+  
 ## &#x1f4c8; GitHub Stats
 
 
@@ -25,4 +27,16 @@ a MERN stack developer,creative and a developer who loves to create new innovati
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDb&logoColor=white&color=green)
 
+![](https://komarev.com/ghpvc/?username=shabin-k1000&color=blueviolet&style=flat)
 
+</div>
+
+-----
+
+[telegram]: http://telegram.dog/ericdaniyel
+[twitter]: https://twitter.com/shabink9
+[youtube]: https://youtube.com/shabin
+[instagram]: https://www.instagram.com/_shabink
+[linkedin]: https://www.linkedin.com/in/shabink
+[facebook]: https://www.facebook.com/shabink
+[devs]: https://dev.to/shabink
