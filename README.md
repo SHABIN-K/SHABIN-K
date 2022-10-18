@@ -6,14 +6,6 @@ a MERN stack developer,creative and a developer who loves to create new innovati
 <div align="center" width="50">
   
 ## &#x1f4c8; GitHub Stats
-[telegram]: http://telegram.dog/ericdaniyel
-[twitter]: https://twitter.com/shabink9
-[youtube]: https://youtube.com/shabin
-[instagram]: https://www.instagram.com/_shabink
-[linkedin]: https://www.linkedin.com/in/shabink
-[facebook]: https://www.facebook.com/shabink
-[devs]: https://dev.to/shabink
-
 
 
 <a href="https://github.com/SHABIN-K">
@@ -40,10 +32,10 @@ a MERN stack developer,creative and a developer who loves to create new innovati
 
 -----
 
-[telegram]: http://telegram.dog/ericdaniyel
-[twitter]: https://twitter.com/shabink9
-[youtube]: https://youtube.com/shabin
-[instagram]: https://www.instagram.com/_shabink
-[linkedin]: https://www.linkedin.com/in/shabink
-[facebook]: https://www.facebook.com/shabink
-[devs]: https://dev.to/shabink
+![telegram]: http://telegram.dog/ericdaniyel
+![twitter]: https://twitter.com/shabink9
+![youtube]: https://youtube.com/shabin
+![instagram]: https://www.instagram.com/_shabink
+![linkedin]: https://www.linkedin.com/in/shabink
+![facebook]: https://www.facebook.com/shabink
+![devs]: https://dev.to/shabink
