@@ -18,9 +18,7 @@ a MERN stack developer,creative and a developer who loves to create new innovati
 <br>
 <br>
 
-</div>
 
------
 
 ## 💼 Skills
 
