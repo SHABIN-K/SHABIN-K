@@ -20,7 +20,7 @@ a MERN stack developer,creative and a developer who loves to create new innovati
 
 
 
- 💼 Skills
+ ## 💼 Skills
 
 
 ![](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=green)
