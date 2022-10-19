@@ -1,4 +1,4 @@
-Hi there 👋
+## &#x1f4c8; Hi there 👋
 
 I am Shabin k, 
 a MERN stack developer,creative and a developer who loves to create new innovative ideas and tools. 
@@ -20,7 +20,7 @@ a MERN stack developer,creative and a developer who loves to create new innovati
 
 
 
-## 💼 Skills
+## &#x1f4c8; 💼 Skills
 
 
 ![](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=green)
