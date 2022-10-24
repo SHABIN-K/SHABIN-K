@@ -1,7 +1,7 @@
  Hi there 👋
 
 I am Shabin k, 
-a MERN stack developer,creative and a developer who loves to create new innovative ideas and tools. 
+a MERN stack developer. 
 
 <div align="center" width="50">
   
