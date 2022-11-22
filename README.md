@@ -29,6 +29,8 @@ a MERN stack developer.
 />
 <img src="https://github-readme-stats.vercel.app/api?username=SHABIN-K&show_icons=true" />
 </picture>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHABIN-K&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
