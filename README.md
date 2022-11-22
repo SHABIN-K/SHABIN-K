@@ -7,25 +7,7 @@ a MERN stack developer.
   
 ## &#x1f4c8; GitHub Stats
 
-
-<a href="https://github.com/SHABIN-K">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHABIN-K&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/SHABIN-K">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SHABIN-K&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="shabin's GitHub Stats" />
-</a>
-<br>
-<br>
- 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
- 
- <picture>
+<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=SHABIN-K&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -38,6 +20,10 @@ a MERN stack developer.
 </picture>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHABIN-K&layout=compact)](https://github.com/SHABIN-K/SHABIN-K)
+<br>
+<br>
+
+
 
 
 
