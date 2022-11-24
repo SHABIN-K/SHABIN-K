@@ -9,7 +9,7 @@ a MERN stack developer.
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=SHABIN-K&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=SHABIN-K&show_icons=true&theme=dark&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
