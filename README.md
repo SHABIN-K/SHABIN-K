@@ -3,6 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=shabin-k1000&color=blueviolet&style=flat)
 
+<p align="justify"> 
+Hello friends ✋, welcome to my GitHub Page. I am Mohammed Shabin k and now  Self-taught  Mern stack developer, I learn new things about programming and teach these things to others, I have been programming for almost more than 5 years and worked with many languages and technologies
+ 
+</p>
+
 # My Social Profiles
 <p align="center">
 <a href="https://www.instagram.com/_shabink/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/shabin.k-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
