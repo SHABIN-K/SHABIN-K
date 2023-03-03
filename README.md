@@ -47,10 +47,10 @@ Hello friends ✋, welcome to my GitHub Page. I am Mohammed Shabin k and now  Se
 <h3 align="left">Tools</h3>
 <div align="left">
  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
- <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="icon" width="65" height="65" />
  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
- <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+ <img alt="postman" src="https://img.shields.io/badge/Postman-%2314354C.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
+ <img alt="Hopscotch" src="https://img.shields.io/badge/Hopscotch-%2314354C.svg?style=for-the-badge&logo=Hopscotch&logoColor=white"/>
 </div>
 
 <h3 align="left">Databases :</h3>
