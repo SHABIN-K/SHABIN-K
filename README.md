@@ -63,7 +63,7 @@ Hello friends ✋, welcome to my GitHub Page. I am Mohammed Shabin k and now  Se
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img alt="Railway" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Railway&logoColor=white"/>
+  <img alt="Railway" src="https://img.shields.io/badge/railway-00C7B7?style=for-the-badge&logo=Railway&logoColor=white"/>
 </div><br/>
 
 ## &#x1f4c8; GitHub Stats
