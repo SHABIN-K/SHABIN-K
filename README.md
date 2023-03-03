@@ -58,7 +58,7 @@ Hello friends ✋, welcome to my GitHub Page. I am Mohammed Shabin k and now  Se
 <h3 align="left">Hosting :</h3>
 <div align="left">
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
+  <img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-%230167ff.svg?style=for-the-badge&logo=Hostinger&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
