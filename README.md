@@ -77,8 +77,8 @@ Hello friends ✋, welcome to my GitHub Page. I am Mohammed Shabin k and now  Se
  
  <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SHABIN-K&show_icons=true&theme=dark&locale=en" alt="shabin Github Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHABIN-K&show_icons=true&theme=dark&locale=en&layout=compact" alt="shabin Github Stats" /></td>
   </tr>
 </table>
 
