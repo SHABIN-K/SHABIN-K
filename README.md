@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mohammed Shabin k </h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=MERN+Stack+Developer+%3A)" /> </h3>
 
+![](https://komarev.com/ghpvc/?username=shabin-k1000&color=blueviolet&style=flat)
 <div align="center" width="50">
   
 ## &#x1f4c8; GitHub Stats
@@ -25,7 +26,6 @@
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDb&logoColor=white&color=green)
 
-![](https://komarev.com/ghpvc/?username=shabin-k1000&color=blueviolet&style=flat)
 
 </div>
 
