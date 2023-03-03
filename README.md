@@ -78,18 +78,11 @@ Hello friends ✋, welcome to my GitHub Page. I am Mohammed Shabin k and now  Se
  <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=SHABIN-K&show_icons=true&theme=dark&locale=en" alt="shabin Github Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHABIN-K&show_icons=true&theme=dark&locale=en&layout=compact" alt="shabin Github Stats" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHABIN-K&theme=dark" alt="Shabin k status" /></td>
   </tr>
 </table>
 
 <div align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHABIN-K&theme=dark" alt="Shabin k status" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHABIN-K&show_icons=true&theme=dark&locale=en&layout=compact" alt="shabin Github Stats" /></p>
  </div>
  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHABIN-K&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="shabin Github Stats">
-</br>
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHABIN-K&layout=compact&theme=algolia" alt="shabink Lang Stats">
-
-</br>
-</br>
