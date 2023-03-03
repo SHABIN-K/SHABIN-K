@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/_shabink/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/shabin.k-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/Shabink9" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/shabink-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://t.me/ericdaniyel" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/shabin.k-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/shahsad.klr/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/shabin.k-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/shabin.k-%231877F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
