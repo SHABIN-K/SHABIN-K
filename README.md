@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shabin-k1000&color=blueviolet&style=flat)
 <p align="justify"> 
-Hello friends ✋, welcome to my GitHub Page. I am Mohammed Shabin k and now  Self-taught  Full Stack Developer, I learn new things about programming and teach these things to others, I have been programming for almost more than 5 years and worked with many languages and technologies
+Highly skilled Full stack developer experienced in crafting dynamic front-end interfaces and robust back-end solutions.i've honed my skills in designing RESTful APIs,cloud deployment,and staying up to date with the industry trends for innovative web development..
  
 </p>
 
