@@ -4,8 +4,11 @@
 
 ![](https://komarev.com/ghpvc/?username=shabin-k1000&color=blueviolet&style=flat)
 <p align="justify"> 
-Highly skilled Full stack developer experienced in crafting dynamic front-end interfaces and robust back-end solutions.i've honed my skills in designing RESTful APIs,cloud deployment,and staying up to date with the industry trends for innovative web development..
- 
+Full Stack Engineer who loves turning ideas into real working products. Started building during col-
+lege—it’s been four years now, with 6+ apps shipped that actually solve real user problems. I like
+working end-to-end, from figuring out how something should work to actually building and shipping it.
+I’m always experimenting, breaking things and learning how to make better products each time.
+
 </p>
 
 # My Social Profiles
